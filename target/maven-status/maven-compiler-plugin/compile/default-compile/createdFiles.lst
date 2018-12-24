@@ -1,0 +1,4 @@
+com\bigdata\app\log\mr\AppLogDataClean$AppLogDataCleanMapper.class
+com\bigdata\app\log\mr\AppLogDataClean.class
+com\bigdata\app\constants\GlobalConstants.class
+com\bigdata\app\utils\JsonToStringUtils.class
